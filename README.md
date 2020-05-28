@@ -1,1 +1,1 @@
-# CPSC-349
+# CPSC 349: Web Front-End Engineering
